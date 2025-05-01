@@ -1,3 +1,4 @@
+
 # Frontend Projects From Roadmap.sh
 Frontend Projects Built Following From Roadmap.sh [Frontend Path](https://roadmap.sh/frontend)
 
@@ -7,35 +8,37 @@ Frontend Projects Built Following From Roadmap.sh [Frontend Path](https://roadma
 ---
 
 ## • Beginner
-1. [Single Page CV](https://roadmap.sh/projects/single-page-cv) ✅
-2. Basic HTML Website
-3. Personal Portfolio
-4. Changelog Component
-5. Testimonial Cards
-6. Datepicker UI
-7. Accessible Form UI
-8. [Image Grid Layout](https://roadmap.sh/projects/image-grid)✅
-9. Tooltip UI
-10. [Tabs](https://roadmap.sh/projects/simple-tabs)✅
-11. Cookie Consent
-12. Restricted Textarea
-13. Accordion
-14. Age Calculator
-15. Flash Card
+01. [Single Page CV](https://roadmap.sh/projects/single-page-cv) ✅
+02. [Basic HTML Website]() 
+03. [Personal Portfolio]()
+04. [Changelog Component]()
+05. [Testimonial Cards]()
+06. [Datepicker UI]()
+07. [Accessible Form UI]()
+08. [Image Grid Layout]()
+09. [Tooltip UI]()
+10. [Tabs]()
+11. [Cookie Consent]()
+12. [Restricted Textarea]()
+13. [Accordion]()
+14. [Age Calculator]()
+15. [Flash Card]()
 
 ---
 
 ## • Intermediated
-1. Custom Dropdown
-2. Task Tracker
-3. Github Random Repository
-4. Reddit Client
-5. Temperature Converter
-6. Pomodoro Time 
-7. Quiz App 
-8. Weather Web App
+16. [Custom Dropdown](https://roadmap.sh/projects/custom-dropdown)✅
+17. Task Tracker
+18. Github Random Repository
+19. Reddit Client
+20. Temperature Converter
+21. Pomodoro Time 
+22. Quiz App 
+23. Weather Web App
 
 ---
 
 ## • Advanced
-1. 24hr Story Feature
+24. 24hr Story Feature
+
+---
