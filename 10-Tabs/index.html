@@ -1,0 +1,51 @@
+
+<!-- Siple Tabs -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Title Name -->
+    <title>Simple Tabs</title>
+  <!-- -->
+  <!-- Link Css -->
+    <link rel="stylesheet" href="styles.css">
+    
+  </head>
+  
+  <body>
+  <!-- Tabs -->
+    <div class="tabs">
+  <!-- Tabs List -->
+         <div class="tab-links">
+        <button class="tab-link active" onclick="openTab(event, 'Tab1')">First Tab</button>
+        <button class="tab-link" onclick="openTab(event, 'Tab2')">Second Tab</button>
+        <button class="tab-link" onclick="openTab(event, 'Tab3')">Third Tab</button>
+        <button class="tab-link" onclick="openTab(event, 'Tab4')">Fourth Tab</button>
+      </div>
+  <!-- Tabs Content -->
+    <div class="tab-content" id="Tab1">
+        <h2>Content for First Tab</h2>
+        <p>This is the content of First Tab.</p>
+        <p>It is shown by default.</p>
+        <p>
+        contoh simple tabs
+        </p>
+      </div>
+      <div class="tab-content" id="Tab2" style="display: none;">
+        <h2>Content for Second Tab</h2>
+        <p>This is the content of Second Tab.</p>
+      </div>
+      <div class="tab-content" id="Tab3" style="display: none;">
+        <h2>Content for Third Tab</h2>
+        <p>This is the content of Third Tab.</p>
+      </div>
+      <div class="tab-content" id="Tab4" style="display: none;">
+        <h2>Content for Fourth Tab</h2>
+        <p>This is the content of Fourth Tab.</p>
+      </div>
+    </div>
+  <!-- Java script -->
+    <script src="script.js"></script>
+</body>
+</html>
