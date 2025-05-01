@@ -1,4 +1,5 @@
-# Project Image Grid Layout
+# Project Image Grid Layout 
+In this project, I was required to create a grid layout using HTML and CSS.
 Souce instructions to run the project and the [Project Page](https://roadmap.sh/projects/image-grid)
 
 ---
