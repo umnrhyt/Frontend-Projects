@@ -1,4 +1,3 @@
-
 # Simple Tabs Projects 
 
 Souce instructions to run the project and the [project](https://roadmap.sh/projects/simple-tabs)
