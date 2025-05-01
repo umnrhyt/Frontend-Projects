@@ -16,7 +16,7 @@ Frontend Projects Built Following From Roadmap.sh [Frontend Path](https://roadma
 7. Accessible Form UI
 8. [Image Grid Layout](https://roadmap.sh/projects/image-grid)✅
 9. Tooltip UI
-10. Tabs
+10. [Tabs](https://roadmap.sh/projects/simple-tabs)✅
 11. Cookie Consent
 12. Restricted Textarea
 13. Accordion
