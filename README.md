@@ -14,7 +14,7 @@ Frontend Projects Built Following From Roadmap.sh [Frontend Path](https://roadma
 5. Testimonial Cards
 6. Datepicker UI
 7. Accessible Form UI
-8. Image Grid Layout
+8. [Image Grid Layout](https://roadmap.sh/projects/image-grid)✅
 9. Tooltip UI
 10. Tabs
 11. Cookie Consent
