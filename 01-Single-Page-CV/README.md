@@ -23,15 +23,15 @@ Single-page CV (Curriculum Vitae) using only HTML
 ## Submission Checklist:
 -------------------------
 
-[x] Semantically correct HTML structure.
+- [x] Semantically correct HTML structure.
 
-[x] Single-page layout with sections for education, skills, and career history.
+- [x] Single-page layout with sections for education, skills, and career history.
 
-[x] SEO meta tags in the head section.
+- [x] SEO meta tags in the head section.
 
-[x] OG tags for better social media sharing.
+- [x] OG tags for better social media sharing.
 
-[x] A favicon linked in the head section.
+- [x] A favicon linked in the head section.
 
 -------------------------
 
